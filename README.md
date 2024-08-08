@@ -2,7 +2,7 @@
 
 # Welcome to the machine.
 
-This is my GitHub profile. For social media, GitHub is my second-favourite site to use, after [Twitter](https://twitter.com/a_nicholi) of course.
+This is my GitHub profile. For social media, GitHub is my second-favourite site to use, after [X.com](https://x.com/nicholatian).
 
 I am a theoretical informatician and amateur software engineer from the [Research Triangle](https://en.wikipedia.org/wiki/Research_Triangle). What code I write is scarce but immaculate, and I have a lot more important contributions to share in architecture instead. I discovered the notion of mechanicalism as an approach to programming, in contrast to functionalism that dominated the world before. I created [C\*](https://wiki.xion.mt/C*) as a variant of ANSI C and the first mechanicalist systems programming language.
 
